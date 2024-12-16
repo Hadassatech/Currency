@@ -1,3 +1,8 @@
+
+
+
+![GIFMaker_me](https://github.com/user-attachments/assets/4afd5228-25ad-408a-914f-f4dcb8e00025)
+
 # Currency Graph Project
 
 A project that fetches currency exchange rates from the Bank of Israel and displays them in a graph. Built with Node.js for the backend and React for the frontend.
