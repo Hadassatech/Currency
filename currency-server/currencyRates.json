@@ -1,0 +1,72 @@
+[
+  {
+    "currency": "USD",
+    "rate": 3.593,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "GBP",
+    "rate": 4.5383,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "JPY",
+    "rate": 2.3501,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "EUR",
+    "rate": 3.7619,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "AUD",
+    "rate": 2.2889,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "CAD",
+    "rate": 2.5254,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "DKK",
+    "rate": 0.5044,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "NOK",
+    "rate": 0.3224,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "ZAR",
+    "rate": 0.2015,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "SEK",
+    "rate": 0.3264,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "CHF",
+    "rate": 4.0223,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "JOD",
+    "rate": 5.0616,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "LBP",
+    "rate": 0.0004,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "EGP",
+    "rate": 0.0707,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "currency": "USD",
+    "rate": 3.593,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "GBP",
+    "rate": 4.5383,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "SEK",
+    "rate": 0.3264,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  },
+  {
+    "currency": "CHF",
+    "rate": 4.0223,
+    "lastUpdate": "2024-12-13T10:26:04.9880918Z"
+  }
+]
